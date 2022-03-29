@@ -18,8 +18,12 @@ Use imshow(window_name, image) to display the image.
 Use imwrite(filename, image) to write the image.
 ### Step5:
 End the program and close the output image windows.
+
+
 ## Program:
+
 ```python
+
 # Developed By: Vijayaragavan ARR
 # Register Number: 212220230059
 
@@ -58,6 +62,7 @@ cv2.imshow("pic_2",image_2)
 cv2.waitKey(0)
 
 ```
+
 ## Output:
 
 ### i) Read and display the image
