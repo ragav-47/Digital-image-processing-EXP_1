@@ -57,8 +57,8 @@ cv2.waitKey(0)
 
 # To cut and paste portion of image
 
-image_2[70:90,110:175]=image_1[70:90,110:175]
-cv2.imshow("pic_2",image_2)
+image_1[200:220,110:175]=image_1[70:90,110:175]
+cv2.imshow("pic_1",image_1)
 cv2.waitKey(0)
 
 ```
@@ -99,7 +99,8 @@ cv2.waitKey(0)
 ### v)Cut and paste portion of image
 <br>
 
-![Screenshot (10)](https://user-images.githubusercontent.com/75235488/160638181-59eb9a91-783d-4eb5-bd88-02f06f2c8b0f.png)
+![Screenshot (24)](https://user-images.githubusercontent.com/75235488/161490446-327dd538-6a14-41a0-820b-71a8bf098afa.png)
+
 
 <br>
 
